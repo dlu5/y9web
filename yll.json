@@ -1,0 +1,1578 @@
+{
+  "dimension": [
+                 {
+                   "label": "GHO",
+                   "display": "Indicator"
+                 },
+                 {
+                   "label": "PUBLISHSTATE",
+                   "display": "PUBLISH STATES"
+                 },
+                 {
+                   "label": "YEAR",
+                   "display": "Year"
+                 },
+                 {
+                   "label": "REGION",
+                   "display": "WHO region"
+                 },
+                 {
+                   "label": "COUNTRY",
+                   "display": "Country"
+                 }
+               ],
+    "fact": [
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Algeria",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Andorra",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Angola",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Antigua and Barbuda",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Argentina",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahamas",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Barbados",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Benin",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bhutan",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bolivia (Plurinational State of)",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bosnia and Herzegovina",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cabo Verde",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cameroon",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Central African Republic",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chad",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "China",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Comoros",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cook Islands",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic People's Republic of Korea",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic Republic of the Congo",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Denmark",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Djibouti",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominica",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Equatorial Guinea",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eritrea",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gambia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Grenada",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea-Bissau",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Haiti",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Hungary",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Indonesia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kazakhstan",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kiribati",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kuwait",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lao People's Democratic Republic",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lesotho",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Libya",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malawi",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malta",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Marshall Islands",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Micronesia (Federated States of)",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Monaco",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Namibia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nauru",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Netherlands",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nigeria",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niue",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Oman",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Pakistan",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Palau",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Papua New Guinea",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Paraguay",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Kitts and Nevis",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Lucia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Vincent and the Grenadines",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "San Marino",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sao Tome and Principe",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Seychelles",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovakia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Solomon Islands",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Somalia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Sudan",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sudan",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Suriname",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Syrian Arab Republic",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "The former Yugoslav republic of Macedonia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Timor-Leste",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tonga",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Trinidad and Tobago",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tunisia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkmenistan",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tuvalu",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "No data"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ukraine",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "2"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "5"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uruguay",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "3"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Vanuatu",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Venezuela (Bolivarian Republic of)",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Viet Nam",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "1"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "GHO": "Alcohol-attributable Years of Life Lost (YLL) score",
+                          "YEAR": "2016"
+                        },
+                "Value": "4"
+              }
+      ]
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html>
+    
+<body>    
+  
+    <!-- import your data -->
+    <script src="bac.json"></script>
+    
+    <canvas id="myCanvas" width="1000" height="5000" style="padding: 50px;">
+      Your browser does not support the canvas element.
+    </canvas>
+    
+    <script>
+        
+        var c = document.getElementById("myCanvas");
+	    var ctx = c.getContext("2d");
+        
+        yvalue = 0
+        for (i = 0; i<data.length; i = i + 9) {
+            cname = data[i].dims.COUNTRY;
+            numdead = parseInt(data[i].Value);
+            ctx.fillStyle = "blue";
+	        ctx.strokeRect(0,yvalue,numdead, 10);
+            ctx.fillRect(0,yvalue,numdead, 10);
+            ctx.fillStyle = "black";
+            ctx.textAlign = "start";
+            ctx.fillText(cname,10,yvalue + 20);
+            ctx.font = "italic bold 15px Comic Sans MS";
+            yvalue = yvalue + 50;
+            
+    
+           
+            
+        }
+    
+        
+
+    </script>
+    </body>
+    
+</html>

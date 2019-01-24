@@ -1,0 +1,1748 @@
+data = [
+              {
+                "dims": {
+                          "COUNTRY": "Afghanistan",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "total ban"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Albania",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.01%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Algeria",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Andorra",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Angola",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.06%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Antigua and Barbuda",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Argentina",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Armenia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Australia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Austria",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.01%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Azerbaijan",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahamas",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bahrain",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "."
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bangladesh",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Barbados",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belarus",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.03%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belgium",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Belize",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Benin",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bhutan",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bolivia (Plurinational State of)",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bosnia and Herzegovina",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Botswana",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brazil",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Brunei Darussalam",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "."
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Bulgaria",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burkina Faso",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Burundi",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cabo Verde",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cambodia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cameroon",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Canada",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Central African Republic",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chad",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Chile",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.03%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "China",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Colombia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Comoros",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Congo",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cook Islands",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Costa Rica",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Côte d'Ivoire",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Croatia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cuba",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.01%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Cyprus",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Czechia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic People's Republic of Korea",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "."
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Democratic Republic of the Congo",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Denmark",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Djibouti",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominica",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Dominican Republic",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ecuador",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.03%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Egypt",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "El Salvador",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Equatorial Guinea",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eritrea",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Estonia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Eswatini",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.04%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ethiopia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Fiji",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Finland",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "France",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gabon",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Gambia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Georgia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.03%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Germany",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ghana",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Greece",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Grenada",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guatemala",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guinea-Bissau",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Guyana",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Haiti",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "."
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Honduras",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.07%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Hungary",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iceland",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "India",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.03%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Indonesia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iran (Islamic Republic of)",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Iraq",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.04%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ireland",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Israel",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.01%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Italy",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jamaica",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Japan",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.03%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Jordan",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kazakhstan",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kenya",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kiribati",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kuwait",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "."
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Kyrgyzstan",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "."
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lao People's Democratic Republic",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Latvia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lebanon",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lesotho",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Liberia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Libya",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "."
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Lithuania",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Luxembourg",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Madagascar",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.04%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malawi",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malaysia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Maldives",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "total ban"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mali",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.03%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Malta",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Marshall Islands",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritania",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "total ban"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mauritius",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mexico",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "sub-national"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Micronesia (Federated States of)",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "."
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Monaco",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mongolia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Montenegro",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.03%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Morocco",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Mozambique",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.06%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Myanmar",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Namibia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nauru",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "."
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nepal",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "."
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Netherlands",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "New Zealand",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nicaragua",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niger",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Nigeria",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Niue",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "."
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Norway",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Oman",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Pakistan",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Palau",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.10%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Panama",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Papua New Guinea",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "."
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Paraguay",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "Zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Peru",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Philippines",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Poland",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Portugal",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Qatar",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "."
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Korea",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Republic of Moldova",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.03%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Romania",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Russian Federation",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.04%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Rwanda",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Kitts and Nevis",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Lucia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saint Vincent and the Grenadines",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Samoa",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.04%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "San Marino",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sao Tome and Principe",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Saudi Arabia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "total ban"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Senegal",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Serbia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Seychelles",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sierra Leone",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Singapore",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovakia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Slovenia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Solomon Islands",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "."
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Somalia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "total ban"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Africa",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "South Sudan",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Spain",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.03%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sri Lanka",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sudan",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "total ban"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Suriname",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Sweden",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Switzerland",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.01%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Syrian Arab Republic",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tajikistan",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.03%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Thailand",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "The former Yugoslav republic of Macedonia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Timor-Leste",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Togo",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "none"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tonga",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.03%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Trinidad and Tobago",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tunisia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.05%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkey",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Turkmenistan",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.03%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Tuvalu",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "."
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uganda",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Ukraine",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.02%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Arab Emirates",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Kingdom of Great Britain and Northern Ireland",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "subnational"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United Republic of Tanzania",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "United States of America",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "sub-national"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uruguay",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Uzbekistan",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Vanuatu",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "."
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Venezuela (Bolivarian Republic of)",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Viet Nam",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "zero tolerance"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Yemen",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "total ban"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zambia",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              },
+              {
+                "dims": {
+                          "COUNTRY": "Zimbabwe",
+                          "YEAR": "2016",
+                          "GHO": "Legal blood alcohol concentration (BAC) limits",
+                          "BACGROUP": "Young/novice drivers"
+                        },
+                "Value": "0.08%"
+              }
+      ]
