@@ -4,7 +4,9 @@ data = [
                           "COUNTRY": "Afghanistan",
                           "YEAR": "2016",
                           "GHO": "Legal blood alcohol concentration (BAC) limits",
-                          "BACGROUP": "Young/novice drivers"
+                          "BACGROUP": "Young/novice drivers",
+                          "lat": 56.130366,
+                          "lng": -106.346771
                         },
                 "Value": "total ban"
               },
