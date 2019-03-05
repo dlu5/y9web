@@ -7,7 +7,62 @@
   box-sizing: border-box;
 }
 
-body {
+body 
+
+    <style>
+<head>    
+{
+  font-size: 28px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+}
+</style>
+</head>
+<body>
+
+
+<ul>
+  <li><a href="osmindex.html">Map</a></li>
+  <li><a href="http://apps.who.int/gho/data/view.main.56240">WHO data</a></li>
+</ul>
+    
+    
+    
+    
+<style>    
+    
+    
+    
+    {
   font: 16px Arial;  
 }
 
@@ -184,6 +239,9 @@ var countries = ["Afghanistan","Albania","Algeria","Andorra","Angola","Anguilla"
 /*initiate the autocomplete function on the "myInput" element, and pass along the countries array as possible autocomplete values:*/
 autocomplete(document.getElementById("myInput"), countries);
 </script>
+
+    
+    
 
     
 </body>
