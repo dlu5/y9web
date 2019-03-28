@@ -1,0 +1,32 @@
+<html>
+
+<script src="data.json"></script>
+    
+    <canvas id="mycanvas"></canvas> 
+
+    
+    
+<script>
+    
+var c = document.getElementById('mycanvas');
+    
+var ctx = c.getContext('2d');
+    
+for(i=0;data.length;i=i+1) {
+    
+    if (data[i].dims.COUNTRY == "Canada") {
+        var dumbnum = data[1].Value;
+        var smartstr = dumbnum.replace(" ","");
+        var myint = parseInt(smartstr);
+        ctx.fillStyle = "red";
+        ctx.fillRect(0,0,myint/100,50);
+        break;
+        
+        
+        }
+    
+    
+}
+</script>
+
+</html>

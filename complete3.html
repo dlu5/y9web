@@ -1,65 +1,7 @@
 <!DOCTYPE html>
-<html lang="en-US">
+<html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-
-body  {margin:0;}
-
-
-
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333;
-  position: fixed;
-  top: 0;
-    width: 100%;
-}
-
-li {
-  float: left;
-    border-right:1px solid #bbb
-}
-
-li:last-child {
-  border-right: none;
-}
-    
-li a {
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-    
-li a:hover:not(.active) {
-  background-color: #111;
-}
-    
-.active {
-  background-color: #4CAF50;
-}
-</style>
-</head>
-<body>
-
-
-<ul>
-    <li><a calss="active" href="create.html">Home</a></li>
-  <li><a href="osmindex.html">Map</a></li>
-  <li><a href="http://apps.who.int/gho/data/view.main.56240">WHO data</a></li>
-      <li style="float:right"><a href="http://apps.who.int/gho/data/view.main.56240">WHO data</a></li>
-</ul>
-
-    <div style="padding:20px;margin-top:30px;background-color:#1abc9c;height:1500px;"></div>
-    
-    
-    
 <style>
 * {
   box-sizing: border-box;
@@ -87,11 +29,7 @@ input[type=text] {
   width: 100%;
 }
 
-input[type=submit] {
-  background-color: DodgerBlue;
-  color: #fff;
-  cursor: pointer;
-}
+
 
 .autocomplete-items {
   position: absolute;
@@ -135,7 +73,6 @@ input[type=submit] {
   <div class="autocomplete" style="width:300px;">
     <input id="myInput" type="text" name="myCountry" placeholder="Country">
   </div>
-  <input type="submit">
 </form>
 
 <script>
@@ -243,10 +180,5 @@ var countries = ["Afghanistan","Albania","Algeria","Andorra","Angola","Anguilla"
 autocomplete(document.getElementById("myInput"), countries);
 </script>
 
-
-    
-    
-
-    
 </body>
 </html>

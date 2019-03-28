@@ -1,4 +1,4 @@
-data: [
+data = [  
               {
                 "dims": {
                           "COUNTRY": "Afghanistan",
@@ -1744,6 +1744,6 @@ data: [
                           "BACGROUP": "Young/novice drivers"
                         },
                 "Value": "0.08%"
-              }
-      ]
+              }  
+]
 

@@ -1,0 +1,18 @@
+<html>
+    <script src="data.json"></script>
+    <script>
+        function addOptions(){
+            var data = JSON.parse(data);
+            var select = document.getElementById('dd');
+            var option;
+            for (var i = 0; i < data.length; i++) {
+              option = document.createElement('option');
+              option.text = jsonArray[i]["Mode"];
+              select.add(option);
+            }
+        }
+    </script>
+    <body onload="addOptions();">
+        <select id="dd"></select>
+    </body>
+</html>
