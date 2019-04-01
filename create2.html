@@ -1,10 +1,92 @@
+<!DOCTYPE html>
 <html>
-    
+<head>
+<style>
+body {margin:0;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #4CAF50;
+    }#button{
+        position: fixed;
+        top:103px;
+        left:200px;
+    }.results{
+        position: fixed;
+        top: 200px;
+        left: 100px;
+        
+    }#result{
+       position: fixed;
+        top: 200px;
+        left: 100px; 
+    }
+</style>
+</head>
+<body>
 
     
-<script>
+<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
     
-function search() {
+<style>
+body {
+    font-family: 'Roboto';font-size: 20px;
+    }#txtAutoComplete{
+        position: fixed;
+        top:100px;
+        left:50px;
+    }
+</style>
+
+<input id="txtAutoComplete" list="dlAutoComplete" type="text"/>
+<datalist id="dlAutoComplete">
+</datalist>
+<button id="button" onclick="search()">GO</button>
+<div id="results"></div>
+
+    <p id="result"></p>
+    
+<p id="demo"></p>    
+
+<ul>
+<li><a class="active" href="create2.html">Home</a></li>
+<li><a href="osmindex.html">Map</a></li>
+<li style="float:right"><a href="http://apps.who.int/gho/data/view.main.56240">WHO data</a></li>
+    </ul>
+ 
+    <script type="text/javascript" src="data.js"></script>
+    <script src = data-2.json></script>
+
+
+   <!-- <script src = data-2.json></script>
+<script>
+    function search() {
     console.log("HI")
     let input = document.getElementById("txtAutoComplete");
     
@@ -61,7 +143,8 @@ function search() {
                      
 </script>
 
-    <script src = data-2.json>
+    
+        <script>
     
 
      function cd()
@@ -87,5 +170,7 @@ function showLimit(limit) {
 
 
 
-</script>
+</script>    -->
+ 
+</body>
 </html>
