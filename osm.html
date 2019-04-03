@@ -12,12 +12,11 @@
    <body>
       <h1>Leaflet Example</h1>
       
-      <p>Here's a map of the countries I've either lived in or travelled through for a month or more.
-      
       <div id="map" style="height: 440px; border: 1px solid #AAA;"></div>
 
       <script type='text/javascript' src='maps/markers.json'></script>
       <script type='text/javascript' src='maps/leaf-demo.js'></script>
+        <script type='text/javascript' src='data.json'></script>
        
 
 <script>
@@ -41,8 +40,8 @@ var map = L.map( 'map', {
      
     for ( var i=0; i < markers.length; ++i ) 
 {
-   L.marker( [markers[i].lat, markers[i].lng] )
-      .bindPopup( '<a href="' + markers[i].url + '" target="_blank">' + markers[i].name + '</a>' )
+   L.marker( [markers[i].CapitalLatitude, markers[i].CapitalLongitude] )
+      .bindPopup( markers[i].CountryName + "<br>" + "<br>" + " Legal BAC Limit for Young/Novice Drivers: " + data[i].Value)
       .addTo( map );
                                       
 }

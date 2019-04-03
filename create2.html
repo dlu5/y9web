@@ -36,19 +36,13 @@ li a:hover:not(.active) {
   background-color: #4CAF50;
     }#button{
         position: fixed;
-        top:103px;
-        left:200px;
-    }.results{
-        position: fixed;
-        top: 500px;
-        left: 48px;
-        color: white
+/*        top:103px;*/
+/*        left:200px;*/
 
-        
     }#result{
        position: fixed;
-        top: 500px;
-        left: 48px; 
+        top: 600px;
+        left: 83px; 
         color: white
 
     }
@@ -61,23 +55,33 @@ li a:hover:not(.active) {
   color: white;
   font-size: 30px;
 }
+    
+
+.header2 {
+  padding: 60px;
+  text-align: left;
+  color: white;
+  font-size: 20px;
+}
 
 
-#fixed {
-padding: 0px;
-text-align: center;
-background: #ffebcd;
+.input-res {
+padding: 8px;
+background: white;
 color: black;
 font-size: 20px;
-position: fixed;
-top: 200px;
-left: 100px;
-bottom: 100px;
-display: inline-block;
+/*    top: 500px;*/
+/*    margin-top: 200px;*/
+/*position: absolute;*/
+/*top: 800px;*/
+/*left: 100px;*/
     }
 
 
 input {
+position: absolute;
+top: 500px;
+left: 80px;
 width: 20%;
 border: 2px solid purple;
 border-radius: 10px;
@@ -90,20 +94,25 @@ transition: width 0.4s ease-in-out;
     
 
 input[type=text]:focus {
-  background-color: blue;
-  width: 50%;
+  background-color: blanchedalmond;
+  width: 25%;
 }
     
     
 </style>
 </head>
 <body>
+    
 
+<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
 <div class="header">
 <h1>Legal Blood Alcohol Content (BAC) Limit Search</h1>
-    </div>
+</div>
     
-<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+
+<div class="header2">
+<h2>Search Country BAC Limits</h2>
+</div>
  
 
 <style>
@@ -111,25 +120,25 @@ body {
     font-family: 'Roboto';font-size: 20px;
     }#txtAutoComplete{
         position: fixed;
-        top:100px;
-        left:50px;
+/*        top:100px;*/
+/*        left:50px;*/
         color: #4cbb17;
         margin: 0;
     }
 </style>
 
-<div id="fixed">
-<input id="txtAutoComplete" list="dlAutoComplete" placeholder="Enter Country..." type="text"/>
-        </div>
+<!-- <div id="fixed"> </div> -->
+<input id="txtAutoComplete" list="dlAutoComplete" placeholder="Enter Country..." type="text"/ onfocus="this.value=''" class="input-res">
 <datalist id="dlAutoComplete">
-</datalist>
-
-    
+</datalist>    
 
 
 
 <style>
 .round-button {
+    position: relative;
+    top: 495px;
+    left: 450px;
     width: 4%;
     height: 0;
     padding-bottom: 3.7%;
@@ -144,11 +153,16 @@ body {
     justify-content: center;
     background-position: center;
     line-height: auto;
+    color: white;
+    text-align: center; 
+    line-height: 50px;
+    font-size: 20px;
+    font-weight: 600;
         
 }
 .round-button:hover {
     background: 5;
-    text-align: center
+    
 }
 
     
