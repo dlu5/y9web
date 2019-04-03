@@ -2,7 +2,8 @@
 <html>
 <head>
 <style>
-body {margin:0;}
+body {margin:0;
+    background-color:dodgerblue;}
 
 ul {
   list-style-type: none;
@@ -39,25 +40,72 @@ li a:hover:not(.active) {
         left:200px;
     }.results{
         position: fixed;
-        top: 200px;
-        left: 100px;
+        top: 500px;
+        left: 48px;
+        color: white
+
         
     }#result{
        position: fixed;
-        top: 200px;
-        left: 100px; 
+        top: 500px;
+        left: 48px; 
+        color: white
+
     }
     
     
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+
+
+#fixed {
+padding: 0px;
+text-align: center;
+background: #ffebcd;
+color: black;
+font-size: 20px;
+position: fixed;
+top: 200px;
+left: 100px;
+bottom: 100px;
+display: inline-block;
+    }
+
+
+input {
+width: 20%;
+border: 2px solid purple;
+border-radius: 10px;
+padding: 10px 10px;
+box-sizing: border-box;
+background-color: antiquewhite;
+-webkit-transition: width 0.4s ease-in-out;
+transition: width 0.4s ease-in-out;
+}
+    
+
+input[type=text]:focus {
+  background-color: blue;
+  width: 50%;
+}
     
     
 </style>
 </head>
 <body>
 
+<div class="header">
+<h1>Legal Blood Alcohol Content (BAC) Limit Search</h1>
+    </div>
     
 <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
-    
+ 
+
 <style>
 body {
     font-family: 'Roboto';font-size: 20px;
@@ -65,12 +113,17 @@ body {
         position: fixed;
         top:100px;
         left:50px;
+        color: #4cbb17;
+        margin: 0;
     }
 </style>
 
-<input id="txtAutoComplete" list="dlAutoComplete" type="text"/>
+<div id="fixed">
+<input id="txtAutoComplete" list="dlAutoComplete" placeholder="Enter Country..." type="text"/>
+        </div>
 <datalist id="dlAutoComplete">
 </datalist>
+
     
 
 
@@ -94,7 +147,7 @@ body {
         
 }
 .round-button:hover {
-    background: #27f2b5;
+    background: 5;
     text-align: center
 }
 

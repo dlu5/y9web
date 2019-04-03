@@ -23,7 +23,7 @@ function search() {
     let resultText = document.getElementById("result");
     for(let i = 0; i < bal.length; i++) {
         if(bal[i].name == input.value) {
-            resultText.innerHTML = "The blood alchohol level in " + bal[i].name + " is: " + bal[i].bal;
+            resultText.innerHTML = "The legal Blood Alchohol Content (BAC) Limit for Young/Novice Drivers in " + bal[i].name + " is: " + bal[i].bal;
         }
     }
 //    resultText.innerHTML = 
