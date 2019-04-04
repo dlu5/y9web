@@ -1,30 +1,83 @@
-<html lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
-    
-   <head profile="http://gmpg.org/xfn/11">
-      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<html lang="en-US" >
+
 
       <link rel="stylesheet" type="text/css" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" />
       
       <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js'></script>
       <script type='text/javascript' src='http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js'></script>
-   </head>
+      <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+       
+<style>
+       
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
 
-   <body>
-      <h1>Leaflet Example</h1>
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+    
+.active {
+  background-color: #4CAF50;
+    } 
+
+
+.map {
+    height: 1000px;
+    position: fixed;
+    top: 50px;
+    width: 100%; 
+    left: 0;
+    }
+    
+</style>
+<body>
+<style>   
+body {
+    font-family: 'Roboto';font-size: 20px;
+    }
+    
+</style> 
+<ul>
+<li><a class="active" href="create2.html">Home</a></li>
+<li><a href="osm.html">Map</a></li>
+<li style="float:right"><a href="http://apps.who.int/gho/data/view.main.56240">WHO data</a></li>
+</ul> 
       
-      <div id="map" style="height: 440px; border: 1px solid #AAA;"></div>
+      <div id="map" class="map"></div>
 
       <script type='text/javascript' src='maps/markers.json'></script>
       <script type='text/javascript' src='maps/leaf-demo.js'></script>
         <script type='text/javascript' src='data.json'></script>
-       
+     
 
 <script>
 	
 var map = L.map( 'map', {
-    center: [20.0, 5.0],
+    center: [3.0, 5.0],
     minZoom: 2,
-    zoom: 2
+    zoom: 0
 });      
        
  
